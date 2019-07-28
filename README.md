@@ -7,8 +7,11 @@
 ## 使用
 
 $> brew install node
+
 $> cd dir
+
 $> npm install
+
 $> node test.js
 
 在线抠图 https://www.gaoding.com/koutu
