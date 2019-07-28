@@ -11,6 +11,8 @@ $> cd dir
 $> npm install
 $> node test.js
 
+在线抠图 https://www.gaoding.com/koutu
+
 ```javascript
 const idcardGenerator = require('idcard-generator');
 const config = {
