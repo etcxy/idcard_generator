@@ -6,6 +6,11 @@
 
 ## 使用
 
+$> brew install node
+$> cd dir
+$> npm install
+$> node test.js
+
 ```javascript
 const idcardGenerator = require('idcard-generator');
 const config = {
@@ -37,5 +42,3 @@ idcardGenerator(config).then(e => {
 ## 其他
 
 参考项目：[https://github.com/airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator)
-
-根据在 [https://github.com/airob0t/idcardgenerator](https://github.com/airob0t/idcardgenerator) 下载的PSD文件，以自己的身份证作为标准，做了一些大的调整，修改了一些字体和布局
